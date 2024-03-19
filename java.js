@@ -1,1 +1,1 @@
-// java file
+// js file here, no code yet!
